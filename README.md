@@ -1,6 +1,6 @@
-- MPhil 2nd-Year Student at Sun Yat-sen University (SYSU)
-- **Research Focus**: 3D Vision, Generative Models, and Vision-Language-Action Models.
-- **Seeking Opportunities**: Currently looking for internship (2025) and PhD (Fall 2026) opportunities in the field of computer vision, machine learning, or related areas.
+- Currently MPhil Student at [Sun Yat-sen University (SYSU)](https://www.sysu.edu.cn/sysuen/) | Intern at [Moonshot AI](https://www.moonshot.cn/)
+- **Research Focus**: Recently RL for agents. Previously 3D Vision and Vision-Language-Action Models.
+- **Seeking Opportunities**: Looking for internship (late 2025) and PhD (Fall 2026) opportunities in the field of computer vision, machine learning, or related areas.
 
 <p align="center">
 <a> <img align="center" 
