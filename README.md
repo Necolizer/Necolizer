@@ -1,6 +1,5 @@
 - Currently MPhil Student at [Sun Yat-sen University (SYSU)](https://www.sysu.edu.cn/sysuen/) | Intern at [Moonshot AI](https://www.moonshot.cn/)
-- **Research Focus**: Recently RL for agents. Previously 3D Vision and Vision-Language-Action Models.
-- **Seeking Opportunities**: Looking for internship (late 2025) and PhD (Fall 2026) opportunities in the field of computer vision, machine learning, or related areas.
+- **Research Focus**: Recently Test-time Scaling and Agent RL. Previously 3D Vision and Vision-Language-Action Models.
 
 <p align="center">
 <a> <img align="center" 
