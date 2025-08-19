@@ -1,5 +1,5 @@
-- Currently MPhil Student at [Sun Yat-sen University (SYSU)](https://www.sysu.edu.cn/sysuen/) | Intern at [Alibaba QuarkLLM](https://ai.quark.cn/) | Previously Intern at [Moonshot AI](https://www.moonshot.cn/)
-- **Research Focus**: Recently Test-time Scaling and Agent RL. Previously 3D Vision and Vision-Language-Action Models.
+- Currently MPhil Student at [Sun Yat-sen University (SYSU)](https://www.sysu.edu.cn/sysuen/) | Intern at [Alibaba QuarkLLM](https://ai.quark.cn/) | Previously Intern at [Moonshot AI (RL Team)](https://www.moonshot.cn/)
+- **Research Focus**: Recently RL Post-Training and Agent RL. Previously 3D Vision and Vision-Language-Action Models.
 
 <p align="center">
 <a> <img align="center" 
