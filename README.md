@@ -1,2 +1,2 @@
 - **About Me**: Currently Master's Student at Sun Yat-sen University (SYSU) | Intern at RedNote (Xiaohongshu) Hi Lab | Previously Intern at Qwen Large Model Application Team (Alibaba QuarkLLM) and Moonshot AI
-- **Research Focus**: Recently RL post-training and agent RL, exploring deep research agents
+- **Research Focus**: Recently RL post-training and agent RL, exploring CLI agents
